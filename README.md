@@ -1,1 +1,0 @@
-# CUDA-Image-Processing-Independent-Project
